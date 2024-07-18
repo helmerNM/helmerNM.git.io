@@ -717,6 +717,10 @@ footer .subscribe-button {
     padding-left: 50px;
     width: 90%;
   }
+  .grid-content2 {
+    padding-left: 50px;
+    width: 90%;
+  }
 }
 
 @media (max-width: 768px) {
@@ -754,6 +758,10 @@ footer .subscribe-button {
     padding-left: 20px;
     width: 90%;
   }
+  .grid-content2 {
+    padding-left: 20px;
+    width: 90%;
+  }
   .grid-cards {
     flex-direction: column;
     align-items: center;
@@ -774,6 +782,13 @@ footer .subscribe-button {
     width: 95%;
   }
   .grid-content h2 {
+    font-size: 40px;
+  }
+  .grid-content2 {
+    padding-left: 10px;
+    width: 95%;
+  }
+  .grid-content2 h2 {
     font-size: 40px;
   }
   .column {
